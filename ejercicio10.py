@@ -7,4 +7,4 @@ while i<=n:
     suma_notas += nota
     i+=1
 
-print("El promedio es: ", suma_notas/n)
+print("El promedio total es: ", suma_notas/n)

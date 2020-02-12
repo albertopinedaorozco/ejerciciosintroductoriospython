@@ -6,6 +6,7 @@
 #import random
 from random import randint
 
+
 milista = []
 for i in range(10):
     milista.append(randint(1,20))
